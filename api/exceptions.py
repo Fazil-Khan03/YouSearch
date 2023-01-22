@@ -1,0 +1,2 @@
+class SearchParamsMissing(Exception):
+    pass
