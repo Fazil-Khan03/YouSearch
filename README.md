@@ -18,13 +18,13 @@ Redis
 
 ## Built With
 
+Python
 Django
-
+Sqlite
 Redis (message broker)
-
 Celery
-
 Celery beat
+
 
 ## Authors
 
